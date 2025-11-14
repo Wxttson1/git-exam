@@ -1,1 +1,1 @@
-deux fonctionnalitéscccccc
+deux fonctionnalités
