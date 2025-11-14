@@ -1,0 +1,2 @@
+la commande reset : permet de supprimer le ou les commits et réécrit l'historique 
+la commande revert : permet de revenir à l'étape précédente en créant un commit qui annule mais ne réécrit pas l'historique
